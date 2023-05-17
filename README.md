@@ -1,5 +1,7 @@
 # FinTech Case-Study
 ## **Overview & Origin**
-![Logo](RobinHoodLogo.jpg)
+![Logo](Robinhood-App-Review.jpg)
+
+
 
 
