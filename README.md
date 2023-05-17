@@ -1,2 +1,3 @@
-# RobinHood-Case-Study
-FinTech: CaseStudy
+# FinTech Case-Study
+## **Overview & Origin**
+
