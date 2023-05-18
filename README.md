@@ -17,3 +17,4 @@ In order to expedite it's growth, Robinhood released it's IPO in July of 2021, r
 https://investingintheweb.com/brokers/robinhood-statistics/#:~:text=Robinhood's%20revenue%20growth%20has%20been,%2Dyear%20growth%20of%2089%25.
 
 ![Users](Users.png)
+https://investingintheweb.com/brokers/robinhood-statistics/#:~:text=Robinhood's%20revenue%20growth%20has%20been,-year%20growth%20of%2089%25
