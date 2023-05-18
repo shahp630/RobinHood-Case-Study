@@ -31,6 +31,7 @@ Robinhood's popularity can be attributed to many factors, setting it apart from 
 	- Another major draw of Robinhood is that it allows users to purchase and sell 	fractional shares, which is especially appealing to new investors and those who may not 	have the financial capital to purchase whole shares.
 4) Wide array of Purchaseable Assets
 	- Apart from offering stocks and ETF'S, Robinhood also offers customers the option to 	purchase cryptocurrency as well, increasing it's appeal amongst investors.
+	- 
 (https://robinhood.com)
 
 
