@@ -13,3 +13,5 @@ In dealing with various hedge funds, Vladimir & Baiju realized that big Wall Str
 
 In order to expedite it's growth, Robinhood released it's IPO in July of 2021, raising a total of $2.1 B at $38/share. The company has grown exponentially from a revenue and number of user standpoint, nearly doublind year-over-year since it's inception. In order to fuel this growth and expansion the company have offered a total of 28 rounds of founding, raising a total of $6.2B (https://www.crunchbase.com/organization/robinhood/company_financials)
 https://investingintheweb.com/brokers/robinhood-statistics/#:~:text=Robinhood's%20revenue%20growth%20has%20been,%2Dyear%20growth%20of%2089%25.
+
+![Users](Users.png)
