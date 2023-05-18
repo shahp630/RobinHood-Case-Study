@@ -18,3 +18,5 @@ https://investingintheweb.com/brokers/robinhood-statistics/#:~:text=Robinhood's%
 
 ![Users](Users.png)
 https://investingintheweb.com/brokers/robinhood-statistics/#:~:text=Robinhood's%20revenue%20growth%20has%20been,-year%20growth%20of%2089%25
+
+## **Business Activities**
