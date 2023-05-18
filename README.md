@@ -1,6 +1,7 @@
 # FinTech Case-Study
 
-![Logo](image.jpg)
+
+![Logo](Logo.png)
 
 
 ## **Overview & Origin**
