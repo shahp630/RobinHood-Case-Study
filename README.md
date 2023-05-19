@@ -74,4 +74,6 @@ Although Robinhood faces stiff competition in the robo advisors domain, it's rev
 
 This industry has become extremely lucrative for the companies involved and will only continue to expand as we have more technological advances. "Robinhood generated $1.81 billion revenue in 2021, a 90% year-on-year increase (Curry, 2023: "Robinhood Revenue and Usage Statistics"). 
 
+## **Recommendation**
+
 
