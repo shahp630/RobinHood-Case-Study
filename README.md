@@ -44,7 +44,8 @@ Other technologies, such as Django, Bootstrap, Google Analytics, GitHub, Git, Ba
 
 Robo advisors & personal finance, the financial industry/domain that Robinhood is in, have experienced significant developments over the past 5-10 years. Acorns, Betterment, Wealthfront, M1Finance & Personal Capital, the other major companies in this domain, have all employed the following innovations/trends to become extremely successful in this space.
 
-![Interface](Interface.png)
+![Interface](Robo advisor.png)
+
 
 
 
