@@ -62,7 +62,10 @@ Although the competition in the financial service industry is fierce, Robinhood 
 
 ## **Results**
 
-![crypto](crypto.webp)
+Robinhood has had a mjor impact on the financial services industry and continues to remain a leader in the Robo Advisors domain. Robinhood's commission-free trading model was a major discruption to hedge funds and brokerages nationwide. The ability to offer it's customers lower costs than other major institutions was a major intial draw to the company and forced other companies to adjust their fee structures. "In the fall of 2019, E-Trade, along with peers TD Ameritrade (AMTD) and Charles Schwab (SCHW) finally bit their lip and started offering free stock trading as well" (Divine, 2019) https://money.usnews.com/investing/investing-101/articles/how-robinhood-changed-an-industry
+
+Many of Robinhood's competitors had no choice but to follow Robinhood's path, offering commission-free trading to it's customers. Although many of the companies were a lot larger than Robinhood at the time, each was impacted significantly, especially from a stock standpoint. "On Oct. 1, the day Charles Schwab did away with online commissions, SCHW stock fell 10%; TD Ameritrade shares fell 26% and E-Trade took a 16% haircut" (Divine, 2019). 
+
 
 
 
