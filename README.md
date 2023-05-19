@@ -84,4 +84,10 @@ As companies, even in different financial domains, begin to expand their offerin
 
 ![Alternatives](robinhood-alternatives.png)
 
+Although it would require a substantial capital investment in technology and possibly an aqusition(s), if Robinhood can expand it's investment offerings and create a more encompassing company which offers many diferent facets of investment opportunities to investors, I think it truly can become the top company in this domain. This would not only attract young/new investors, but also those that are looking to expand their investments and branch into other forms of investing.
+
+In order to expand, a large investment must be made in cloud infrastructure, this would help expedite scalability exponentially and provide the company with the means to expand. More research/investment in Data would also be very important to help determine exactly what products and services should/are worth it for the company. This would help determine whether or not it's financially feasible to offer the service or product. Another upgrade that would be required is to upgrade/implement the new products/features in their mobile environment. Robinhood's user-friendly interface has proved to be a major impact on it's customer base and imrpoving that even further would help ease the transition for newer customers. Last, but certainly not least, a bigger investment in security and date breaches. Regardless of how great a product/company may be, if they're accustomed to security breaches or data loss, they'll lose customers at a fairly high rate. These customers will be highly unlikely to return to the platfrom and can prove to be especially harmful from both a PR standpoint and overall experience standpoint for new and exisiting customers.
+
+Although these upgrades may not be possible, as the domain of Robo Advisors & Personal Capital continues to expand, companies, including Robinhood, will have no choice but to expand and keep up with the emerging markets.
+
 
