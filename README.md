@@ -34,4 +34,8 @@ Robinhood's popularity can be attributed to many factors, setting it apart from 
 	- 
 (https://robinhood.com)
 
+![Interface](Interface.png)
+
+
+
 
