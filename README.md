@@ -74,6 +74,11 @@ Although Robinhood faces stiff competition in the robo advisors domain, it's rev
 
 This industry has become extremely lucrative for the companies involved and will only continue to expand as we have more technological advances. "Robinhood generated $1.81 billion revenue in 2021, a 90% year-on-year increase (Curry, 2023: "Robinhood Revenue and Usage Statistics"). 
 
-## **Recommendation**
+## **Recommendations**
 
+Although Robinhood's customer base has grown exponentially since it's inception, there still are ways for the company to improve to increase their overall market cap. In order to do so, I would recommend that Robinhood expand it's investment offerings, particularily in cryptocurrnecy, bonds, and mutual fonds. Although Robinhood offers cryptocurrecny, it is very limited in the number of alt coins/cryptocurrency that it offers, forcing users to rely on other exchanges/wallets to purchase/hold their cryptocurrency, many of which charge substanital fees.
+
+As companies, even in different financial domains, begin to expand their offerings in cryptocurrency and other assets, it seems as though Robinhood is hesitant to develop and offer more products. Coinbase, which has led the way in cryptocurrency since it's inception, "generated $3.1 billion in revenue in 2022" and increase it's total asset offerings to $89.7 billion in 2022, a 321.75% increase from 2021" (Curry, 2023: "Coinbase Revenue and Usage Statistics (2023)").
+
+![Stocks](stocks.jpg)
 
