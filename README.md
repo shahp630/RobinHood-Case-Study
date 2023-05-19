@@ -36,6 +36,8 @@ Robinhood's popularity can be attributed to many factors, setting it apart from 
 
 ![Interface](Interface.png)
 
+In order to run successfully and support all of it's offerings, Robinhood employs an array of programming languages, including various application & data tools, utilities, DevOps, and business tools to support it's platform. Robinhood's backend infrastructure is predominantly built using Python, a very commonly used programming language (https://stackshare.io/robinhood/robinhood).
 
+Other technologies, such as Django, Bootstrap, Google Analytics, GitHub, Git, Babel, and Slack, amongst many others, are also utilized in creating Robinhood's user-friendly interface https://stackshare.io/robinhood/robinhood).  Not only has Robinhood make it easy for it's customers to trade, but also providers it's users with a platform to provide feedback, allowing for the company to constantly improve and draw even more customers.
 
 
