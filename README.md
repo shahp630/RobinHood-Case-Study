@@ -41,3 +41,8 @@ In order to run successfully and support all of it's offerings, Robinhood employ
 Other technologies, such as Django, Bootstrap, Google Analytics, GitHub, Git, Babel, and Slack, amongst many others, are also utilized in creating Robinhood's user-friendly interface https://stackshare.io/robinhood/robinhood).  Not only has Robinhood make it easy for it's customers to trade, but also providers it's users with a platform to provide feedback, allowing for the company to constantly improve and draw even more customers.
 
 ## **Landscape**
+
+Robo advisors & personal finance, the financial industry/domain that Robinhood is in, have experienced significant developments over the past 5-10 years. Acorns, Betterment, Wealthfront, M1Finance & Personal Capital, the other major companies in this domain, have all employed the following innovations/trends to become extremely successful in this space.
+
+
+
