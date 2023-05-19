@@ -23,16 +23,16 @@ https://investingintheweb.com/brokers/robinhood-statistics/#:~:text=Robinhood's%
 
 Robinhood's popularity can be attributed to many factors, setting it apart from it's competitors:
 
-1) Commission-Free Trading
+1) *Commission-Free Trading*
 	- What intially set Robinhood apart from it's competitors is it's commission-free trading model. Unlike most other comanies at the time, Robinhood allowed it's customers to trade stocks stocks, cryptocurrency, options, and ETF's without having to pay a commission.
 	
-2) User-Friendly Interface
+2) *User-Friendly Interface*
 	- Robinhood's simplistic and clean design is a major draw for it's customers, especially for first-time investors who are looking for an easy way to invest. Robinhood has especially received praise for it's user-friendly mobile interface.
 	
-3) Fractional Shares
+3) *Fractional Shares*
 	- Another major draw of Robinhood is that it allows users to purchase and sell 	fractional shares, which is especially appealing to new investors and those who may not have the financial capital to purchase whole shares.
 	
-4) Wide array of Purchaseable Assets
+4) *Wide array of Purchaseable Assets*
 	- Apart from offering stocks and ETF'S, Robinhood also offers customers the option to 	purchase cryptocurrency as well, increasing it's appeal amongst investors.
 	
 (https://robinhood.com)
