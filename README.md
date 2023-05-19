@@ -62,7 +62,7 @@ Although the competition in the financial service industry is fierce, Robinhood 
 
 ## **Results**
 
-![crypto](robo.png)
+![crypto](rcrypto.png)
 
 
 
