@@ -60,5 +60,5 @@ Robo advisors & personal finance, the financial industry/domain that Robinhood i
 	
 Although the competition in the financial service industry is fierce, Robinhood has grown it's user base considerably since first being launched. It's growth has started to slow slightly as more and more companies are being introduced to the space, but it's impact on younger investors still remains especially strong.
 
-
+## **Results**
 
