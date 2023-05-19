@@ -66,6 +66,7 @@ Robinhood has had a mjor impact on the financial services industry and continues
 
 Many of Robinhood's competitors had no choice but to follow Robinhood's path, offering commission-free trading to it's customers. Although many of the companies were a lot larger than Robinhood at the time, each was impacted significantly, especially from a stock standpoint. "On Oct. 1, the day Charles Schwab did away with online commissions, SCHW stock fell 10%; TD Ameritrade shares fell 26% and E-Trade took a 16% haircut" (Divine, 2019). 
 
+![Interface](Interface.png)
 
 
 
