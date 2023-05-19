@@ -80,5 +80,5 @@ Although Robinhood's customer base has grown exponentially since it's inception,
 
 As companies, even in different financial domains, begin to expand their offerings in cryptocurrency and other assets, it seems as though Robinhood is hesitant to develop and offer more products. Coinbase, which has led the way in cryptocurrency since it's inception, "generated $3.1 billion in revenue in 2022" and increase it's total asset offerings to $89.7 billion in 2022, a 321.75% increase from 2021" (Curry, 2023: "Coinbase Revenue and Usage Statistics (2023)").
 
-![Stocks](stocks.jpg)
+![crypto](crypto.webp)
 
