@@ -68,5 +68,10 @@ Many of Robinhood's competitors had no choice but to follow Robinhood's path, of
 
 ![Stocks](stocks.jpg)
 
+Companies in the robo advisors and personal finance domain typically use an array of core metrics to measure and evaluate their performance. These metrics, which include revenue & fee income, cost analysis, assets under management, client growth & retention, average account size and customer service, amongst many other, are typically used in comparing competitors in this space.
+
+Although Robinhood faces stiff competition in the robo advisors domain, it's revenue strucutre is set up for the company to succeed. Although the comapny offers commission-free trading, it generates revenue through many different streams. " Essentially, when a person trades on the app, Robinhood sends that trade to a larger entity, which is able to leverage thousands of orders at once for a slight advantage. The larger entity then compensates Robinhood for the orders" (Curry, 2023: "Robinhood Revenue and Usage Statistics"). This process accounts for more than half of Robinhood's revenue, while it's various advertisement and premium offerings (Robinhood Gold). 
+
+This industry has become extremely lucrative for the companies involved and will only continue to expand as we have more technological advances. "Robinhood generated $1.81 billion revenue in 2021, a 90% year-on-year increase (Curry, 2023: "Robinhood Revenue and Usage Statistics"). 
 
 
