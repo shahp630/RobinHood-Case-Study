@@ -49,13 +49,13 @@ Robo advisors & personal finance, the financial industry/domain that Robinhood i
 
 ![Robo](robo.png)
 
-1) Accessibility
+1) *Accessibility*
 	- Robinhood and other Robo Advisors have made investing easier and more accessible to a broader range of investors, all of which have varying levels of investment knowledge. The introduction of mobile applications and user-frindly interfaces has made it even easier to invest.
 
-2) Cost-Effective
+2) *Cost-Effective*
 	- Just as Robinhood has introduced commission-free trading, many other Robo Advisor companies have done the same, decreasing the overall capital investment for it's users. Although the cost may not be substantial, it lowers the overall risk of investors and is even more beneficial to those that buy/sell stocks, ETF'S, etc. more frequently.
 	
-3) Personalizaiton
+3) *Personalizaiton*
 	- Due to the flooded market of Robo Advisor companies/options, many users are 	looking for a more personalized and customizable investment service/platform. Although 	information is readily available to everyone, investors are looking for a more 	personalized approach to investing which takes into account a more individualized risk 	and goal analysis.
 	
 Although the competition in the financial service industry is fierce, Robinhood has grown it's user base considerably since first being launched. It's growth has started to slow slightly as more and more companies are being introduced to the space, but it's impact on younger investors still remains especially strong.
