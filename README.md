@@ -24,16 +24,16 @@ https://investingintheweb.com/brokers/robinhood-statistics/#:~:text=Robinhood's%
 
 Robinhood's popularity can be attributed to many factors, setting it apart from it's competitors:
 
-1) *Commission-Free Trading*
+1) ***Commission-Free Trading***
 	- What intially set Robinhood apart from it's competitors is it's commission-free trading model. Unlike most other comanies at the time, Robinhood allowed it's customers to trade stocks stocks, cryptocurrency, options, and ETF's without having to pay a commission.
 	
-2) *User-Friendly Interface*
+2) ***User-Friendly Interface***
 	- Robinhood's simplistic and clean design is a major draw for it's customers, especially for first-time investors who are looking for an easy way to invest. Robinhood has especially received praise for it's user-friendly mobile interface.
 	
-3) *Fractional Shares*
+3) ***Fractional Shares***
 	- Another major draw of Robinhood is that it allows users to purchase and sell 	fractional shares, which is especially appealing to new investors and those who may not have the financial capital to purchase whole shares.
 	
-4) *Wide array of Purchaseable Assets*
+4) ***Wide array of Purchaseable Assets***
 	- Apart from offering stocks and ETF'S, Robinhood also offers customers the option to 	purchase cryptocurrency as well, increasing it's appeal amongst investors.
 	
 (https://robinhood.com)
@@ -50,13 +50,13 @@ Robo advisors & personal finance, the financial industry/domain that Robinhood i
 
 ![Robo](robo.png)
 
-1) *Accessibility*
+1) ***Accessibility*
 	- Robinhood and other Robo Advisors have made investing easier and more accessible to a broader range of investors, all of which have varying levels of investment knowledge. The introduction of mobile applications and user-frindly interfaces has made it even easier to invest.
 
-2) *Cost-Effective*
+2) ***Cost-Effective*
 	- Just as Robinhood has introduced commission-free trading, many other Robo Advisor companies have done the same, decreasing the overall capital investment for it's users. Although the cost may not be substantial, it lowers the overall risk of investors and is even more beneficial to those that buy/sell stocks, ETF'S, etc. more frequently.
 	
-3) *Personalizaiton*
+3) ***Personalizaiton***
 	- Due to the flooded market of Robo Advisor companies/options, many users are 	looking for a more personalized and customizable investment service/platform. Although 	information is readily available to everyone, investors are looking for a more 	personalized approach to investing which takes into account a more individualized risk 	and goal analysis.
 	
 Although the competition in the financial service industry is fierce, Robinhood has grown it's user base considerably since first being launched. It's growth has started to slow slightly as more and more companies are being introduced to the space, but it's impact on younger investors still remains especially strong.
